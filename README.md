@@ -31,47 +31,46 @@
 ## 🛠️ Skills  
 
 ### 💻 Programming & Frameworks  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=flat&logo=.net&logoColor=white)
-![ASP.NET Web Forms](https://img.shields.io/badge/ASP.NET%20Web%20Forms-68217A?style=flat&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white "C# Programming")
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white ".NET Framework & .NET Core")
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=flat&logo=.net&logoColor=white "ASP.NET MVC Development")
+![ASP.NET Web Forms](https://img.shields.io/badge/ASP.NET%20Web%20Forms-68217A?style=flat&logo=dotnet&logoColor=white "Web Forms Development")
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black "JavaScript for Web Development")
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white "TypeScript for Angular")
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white "Angular Frontend Development")
 
-### 🛠 Tools & Libraries  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=api&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+---
 
-### ☁️ Cloud & CRM  
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-0070D2?style=flat&logo=salesforce&logoColor=white)
+### 🛠️ Backend & Database  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white "MS SQL Server")
+![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-07405E?style=flat&logo=database&logoColor=white "Database Procedures")
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white "Language Integrated Query")
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=nuget&logoColor=white "ORM for .NET")
 
-### 🖥️ Server Handling & Deployment  
-![IIS](https://img.shields.io/badge/IIS-0078D7?style=flat&logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D7?style=flat&logo=windows&logoColor=white)
-![Deployment](https://img.shields.io/badge/Application%20Deployment-4CAF50?style=flat&logo=azure-pipelines&logoColor=white)
-![Hosting](https://img.shields.io/badge/Web%20Hosting-FF9800?style=flat&logo=google-cloud&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=flat&logo=githubactions&logoColor=white)
+---
 
+### 🎨 Frontend & UI  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white "HTML5 for Web Pages")
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white "CSS3 Styling")
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white "Bootstrap Framework")
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white "jQuery for DOM Manipulation")
+![AJAX](https://img.shields.io/badge/AJAX-005571?style=flat&logo=ajax&logoColor=white "Asynchronous JS & XML")
 
-### 🧠 Databases & Querying  
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-4B0082?style=flat&logo=database&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-68217A?style=flat&logo=dotnet&logoColor=white)
+---
 
-### 📊 Others  
-![Agile](https://img.shields.io/badge/Agile%20Methodology-2496ED?style=flat&logo=scrumalliance&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP%20Concepts-007396?style=flat&logo=java&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF6F00?style=flat&logo=codeforces&logoColor=white)
-![Team Collaboration](https://img.shields.io/badge/Team%20Player-00C853?style=flat&logo=google&logoColor=white)
+### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white "Version Control with Git")
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white "Code Hosting Platform")
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white "IDE for .NET Development")
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white "Lightweight Code Editor")
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white "API Testing Tool")
+
+---
+
+### ☁️ Server & Hosting  
+![IIS](https://img.shields.io/badge/IIS-2C3E50?style=flat&logo=windows&logoColor=white "Internet Information Services")
+![Hosting](https://img.shields.io/badge/Web%20Hosting-4285F4?style=flat&logo=google-chrome&logoColor=white "Server & Hosting Management")
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white "Microsoft Azure Basics")
 
 ---
 
