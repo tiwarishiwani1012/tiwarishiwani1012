@@ -46,6 +46,14 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-0070D2?style=flat&logo=salesforce&logoColor=white)
 
+### 🖥️ Server Handling & Deployment  
+![IIS](https://img.shields.io/badge/IIS-0078D7?style=flat&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D7?style=flat&logo=windows&logoColor=white)
+![Deployment](https://img.shields.io/badge/Application%20Deployment-4CAF50?style=flat&logo=azure-pipelines&logoColor=white)
+![Hosting](https://img.shields.io/badge/Web%20Hosting-FF9800?style=flat&logo=google-cloud&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=flat&logo=githubactions&logoColor=white)
+
+
 ### 🧠 Databases & Querying  
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-4B0082?style=flat&logo=database&logoColor=white)
