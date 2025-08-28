@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Shiwani Tiwari</h1>
 
 <p align="center">
-  🌐 <b>.NET Developer</b> | 💻 <b>Web Enthusiast</b> | 🚀 <b>Lifelong Learner</b>
+  🌐 <b>.NET Developer</b> | 💻 <b>Full-Stack Enthusiast</b> | 🚀 <b>Lifelong Learner</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&width=500&lines=Welcome+to+my+GitHub+Profile!;Building+Scalable+.NET+Web+Applications;Exploring+Angular+%26+Salesforce+%F0%9F%94%A5;Passionate+About+Learning+%26+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&width=500&lines=Welcome+to+my+GitHub+Profile!;Building+Scalable+.NET+Applications;Exploring+Angular+%26+Salesforce+%F0%9F%94%A5;Passionate+About+Learning+%26+Innovation" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,22 +20,42 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills  
 
-### 💻 Languages & Frameworks
+### 💻 Programming & Frameworks  
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=flat&logo=.net&logoColor=white)
+![ASP.NET Web Forms](https://img.shields.io/badge/ASP.NET%20Web%20Forms-68217A?style=flat&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-### 🛠 Tools & Libraries
+### 🛠 Tools & Libraries  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=api&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+### ☁️ Cloud & CRM  
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-0070D2?style=flat&logo=salesforce&logoColor=white)
+
+### 🧠 Databases & Querying  
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-4B0082?style=flat&logo=database&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-68217A?style=flat&logo=dotnet&logoColor=white)
+
+### 📊 Others  
+![Agile](https://img.shields.io/badge/Agile%20Methodology-2496ED?style=flat&logo=scrumalliance&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP%20Concepts-007396?style=flat&logo=java&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF6F00?style=flat&logo=codeforces&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team%20Player-00C853?style=flat&logo=google&logoColor=white)
 
 ---
 
