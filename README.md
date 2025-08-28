@@ -12,11 +12,19 @@
 
 ## 💁‍♀️ About Me  
 
+✨ Hi, I'm **Shiwani Tiwari**, a passionate **.NET Developer** with hands-on experience in building dynamic and scalable web applications.  
+💡 I enjoy turning complex business requirements into clean, efficient, and user-friendly solutions.  
+
 - 🔭 Currently working on **ASP.NET Web Forms & MVC** projects  
-- 🌱 Learning **Angular** (frontend) and **Salesforce (Apex)** for CRM solutions  
-- 💬 Ask me about **.NET, SQL Server, or Web Development**  
+- 🌱 Expanding my skills in **Angular (Frontend)** & **Salesforce (Apex CRM)**  
+- 🧠 Strong knowledge of **SQL Server, Stored Procedures, and Query Optimization**  
+- ☁️ Interested in **Cloud Deployments, Server Handling (IIS, Azure), and CI/CD**  
+- 🎯 Career Goal → Become a **Proficient Full-Stack Developer** capable of handling **end-to-end development & deployment**  
+- 💬 Love to collaborate and discuss ideas around **.NET, Web Development, and Database Design**  
 - 📫 Reach me at: **tiwarishiwani1012@gmail.com**  
-- 🎯 Goal: Become a **Proficient Full-Stack Developer**  
+
+✨ I believe in *“Keep Learning, Keep Building, Keep Growing”* 🚀  
+
 
 ---
 
