@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Shiwani Tiwari</h1>
 
 <p align="center">
-  🌐 <b>.NET Developer</b> | 💻 <b>Full-Stack Enthusiast</b> | 🚀 <b>Lifelong Learner</b>
+A Passionate .NET Developer & Aspiring Full-Stack Engineer from India 💻
 </p>
 
 <p align="center">
@@ -11,19 +11,20 @@
 ---
 
 ## 💁‍♀️ About Me  
+✨ Passionate and detail-oriented **.NET Developer** with 2 years of hands-on experience in building **scalable web applications** using **ASP.NET Web Forms, MVC, and SQL Server**.  
+Enthusiastic about **Full-Stack Development**, with growing expertise in **Angular (Frontend)** and **Salesforce (Apex CRM)**.  
 
-✨ Hi, I'm **Shiwani Tiwari**, a passionate **.NET Developer** with hands-on experience in building dynamic and scalable web applications.  
-💡 I enjoy turning complex business requirements into clean, efficient, and user-friendly solutions.  
+⚡ Strong foundation in **software engineering principles, database design, and query optimization**, with proven ability to **analyze, design, and implement efficient solutions**.  
+💡 Dedicated to continuous learning and growth in **cloud platforms, CI/CD pipelines, and end-to-end deployment strategies**.  
 
-- 🔭 Currently working on **ASP.NET Web Forms & MVC** projects  
-- 🌱 Expanding my skills in **Angular (Frontend)** & **Salesforce (Apex CRM)**  
-- 🧠 Strong knowledge of **SQL Server, Stored Procedures, and Query Optimization**  
-- ☁️ Interested in **Cloud Deployments, Server Handling (IIS, Azure), and CI/CD**  
-- 🎯 Career Goal → Become a **Proficient Full-Stack Developer** capable of handling **end-to-end development & deployment**  
-- 💬 Love to collaborate and discuss ideas around **.NET, Web Development, and Database Design**  
-- 📫 Reach me at: **tiwarishiwani1012@gmail.com**  
+🤝 Known for excellent **problem-solving, communication, and collaboration skills**, with a track record of contributing to **team success** in dynamic environments.  
 
-✨ I believe in *“Keep Learning, Keep Building, Keep Growing”* 🚀  
+---
+
+📫 **How to reach me** – tiwarishiwani135@gmail.com  
+📄 **My portfolio website ** – [GitHub Repositories](https://github.com/tiwarishiwani1012?tab=repositories)  
+🌐 **LinkedIn** – [linkedin.com/in/shiwani-tiwari](https://linkedin.com/in/shiwani-tiwari)  
+
 
 
 ---
