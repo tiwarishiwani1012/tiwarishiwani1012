@@ -31,8 +31,10 @@ Enthusiastic about **Full-Stack Development**, with growing expertise in **Angul
 ## 🚀 Tech Stack & Tools I Use  
 
 <markdown-accessiblity-table data-catalyst=""><table align="center" tabindex="0">
-  <tbody><tr>
+  <tbody>
+    <tr>
   <td align="center" width="90"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9e02c0426b198d80f933ea32f92142c36ce703345e524caa6c7f38fa338aaf9f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661"><img src="https://camo.githubusercontent.com/9e02c0426b198d80f933ea32f92142c36ce703345e524caa6c7f38fa338aaf9f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661" width="55" height="55" data-canonical-src="https://skillicons.dev/icons?i=java" style="max-width: 100%; height: auto; max-height: 55px;"></a><br>Java</td>
+      
   <td align="center" width="90"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/90b107006a1756453114e6782a2592c05b94452232f63a5ee3742f9417ade939/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d737072696e67"><img src="https://camo.githubusercontent.com/90b107006a1756453114e6782a2592c05b94452232f63a5ee3742f9417ade939/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d737072696e67" width="55" height="55" data-canonical-src="https://skillicons.dev/icons?i=spring" style="max-width: 100%; height: auto; max-height: 55px;"></a><br>Spring</td>
   <td align="center" width="90"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8f3f7c6f760a14060b33e90190faa902bcc4871373ec7ef0451c183a54d6490a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d7973716c"><img src="https://camo.githubusercontent.com/8f3f7c6f760a14060b33e90190faa902bcc4871373ec7ef0451c183a54d6490a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d7973716c" width="55" height="55" data-canonical-src="https://skillicons.dev/icons?i=mysql" style="max-width: 100%; height: auto; max-height: 55px;"></a><br>MySQL</td>
   <td align="center" width="90"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8ac99a8f9df10832e35eb2fb7fad603424fa19b103551cdebf76cbae20d9ef0c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573"><img src="https://camo.githubusercontent.com/8ac99a8f9df10832e35eb2fb7fad603424fa19b103551cdebf76cbae20d9ef0c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" width="55" height="55" data-canonical-src="https://skillicons.dev/icons?i=postgres" style="max-width: 100%; height: auto; max-height: 55px;"></a><br>PostgreSQL</td>
@@ -90,6 +92,21 @@ Enthusiastic about **Full-Stack Development**, with growing expertise in **Angul
     <td align="center" width="90"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43e532303a0daf841aaebec619fba6c88fc8065557e8acba186b51897acd2fcc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746c6162616374696f6e732d6f72616e6765"><img src="https://camo.githubusercontent.com/43e532303a0daf841aaebec619fba6c88fc8065557e8acba186b51897acd2fcc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746c6162616374696f6e732d6f72616e6765" width="55" height="55" data-canonical-src="https://img.shields.io/badge/gitlabactions-orange" style="max-width: 100%; height: auto; max-height: 55px;"></a><br>GitLab Actions</td>
     <td align="center" width="90"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/055e04192c3c2ae4bf89824601c5a5edef85bedb15aa2f2925a1c21b6f5ca737/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676974687562636f70696c6f742d626c7565"><img src="https://camo.githubusercontent.com/055e04192c3c2ae4bf89824601c5a5edef85bedb15aa2f2925a1c21b6f5ca737/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676974687562636f70696c6f742d626c7565" width="55" height="55" data-canonical-src="https://img.shields.io/badge/githubcopilot-blue" style="max-width: 100%; height: auto; max-height: 55px;"></a><br>GitHub Copilot</td>
     <td align="center" width="90"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/55202bf77ee3a38f0cc2e6655305b7082abfbc426bec841f1e8ebcca2181146d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73656c656e69756d2d6461726b626c7565"><img src="https://camo.githubusercontent.com/55202bf77ee3a38f0cc2e6655305b7082abfbc426bec841f1e8ebcca2181146d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73656c656e69756d2d6461726b626c7565" width="55" height="55" data-canonical-src="https://img.shields.io/badge/selenium-darkblue" style="max-width: 100%; height: auto; max-height: 55px;"></a><br>Selenium</td>
+</tr>
+<tr>
+  <td align="center" width="90">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://swagger.io/">
+    <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="55" height="55" alt="Swagger"/>
+  </a>
+  <br>Swagger
+</td>
+<td align="center" width="90">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.postman.com/">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" height="55" alt="Postman"/>
+  </a>
+  <br>Postman
+</td>
+
 </tr>
 </tbody></table></markdown-accessiblity-table>
 
