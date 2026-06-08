@@ -1,8 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Shiwani Tiwari 👩‍💻</h1>
-
-<p align="center">
-"Building the future, one innovative solution at a time." 💻
-</p>
+<h1 align="center">Hi 👋, I'm Aditya Raj</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&width=500&lines=Welcome+to+my+GitHub+Profile!;Building+Scalable+.NET+Applications;Exploring+Angular+%26+Salesforce+%F0%9F%94%A5;Passionate+About+Learning+%26+Innovation" alt="Typing SVG" />
