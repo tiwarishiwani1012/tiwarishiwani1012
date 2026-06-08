@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shiwani Tiwari</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&width=500&lines=Welcome+to+my+GitHub+Profile!;Building+Scalable+.NET+Applications;Exploring+Angular+%26+Salesforce+%F0%9F%94%A5;Passionate+About+Learning+%26+Innovation" alt="Typing SVG" />
-</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagithubraj&label=Profile%20views&color=0e75b6&style=flat" alt="adityagithubraj" /> </p>
 
 ---
 
